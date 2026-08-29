@@ -1,4 +1,4 @@
-# 🚀Hrushikesh Nial
+# Hrushikesh Nial
 **Android Developer | Open-Source Contributor | Privacy & Systems Tooling**
 
 📍 Bengaluru, India | 📧 nialhrushikesh.com | 🌐 [LinkedIn](#) | 🐙 [GitHub](https://github.com/hn702753)
