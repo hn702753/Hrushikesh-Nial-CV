@@ -1,7 +1,7 @@
 # 🚀 Your Name
 **Android Developer | Open-Source Contributor | Privacy & Systems Tooling**
 
-📍 City, Country | 📧 your.email@example.com | 🌐 [LinkedIn](#) | 🐙 [GitHub](https://github.com/your-username)
+📍 Bengaluru, India | 📧 nialhrushikesh.com | 🌐 [LinkedIn](#) | 🐙 [GitHub](https://github.com/hn702753)
 
 ---
 
